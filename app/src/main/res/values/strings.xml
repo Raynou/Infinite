@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Infinite</string>
+    <string name="movie1">Shrek</string>
+    <string name="movie2">Shrek 2</string>
+    <string name="movie3">Shrek tercero</string>
+    <string name="movie4">Shrek felices para siempre</string>
+    <string name="movie5">¿Cómo entrenar a tu dragón?</string>
+    <string name="movie6">¿Cómo entrenar a tu dragón? 2</string>
+    <string name="movie7">¿Cómo entrenar a tu dragón? 3</string>
+    <string name="movie8">Toy Story</string>
+    <string name="movie9">Toy Story 2</string>
+    <string name="movie10">Toy Story 3</string>
+    <string name="movie11">Los increíbles</string>
+    <string name="movi12">Los increíbles 2</string>
+</resources>
