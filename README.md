@@ -1,7 +1,7 @@
-# INFINITE MOBILE – MANUAL DE USUARIO
-2019
+# INFINITE MOBILE – MANUAL DE USUARIO 2019
+
  
-![](website/static/sample.png)
+![](Infinite/Imagenes para README/logo.png)
 Introducción
 Infinite Mobile es la adaptación del proyecto original de Infinite desarrollado para dispositivos móviles. Infinite es un medio de entretenimiento digital para la reproducción de películas mediante una cuenta y conexión a internet.
 El usuario disfrutará de infinito entretenimiento gracias a nuestra aplicación. Todo esto desarrollado por los estudiantes: Jhafet Barrios Hernández y Rafael García Mendoza.
