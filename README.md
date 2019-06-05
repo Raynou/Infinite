@@ -36,7 +36,7 @@ La pantalla de Infinite cuenta con un aspecto sencillo, con el logo de la aplica
 *Barra de navegación*
 
 
-Ésta pequeña pero útil barra nos permite buscar nuestras películas favoritas mediante el uso de palabras clave en dicha barra,para así encontrar más eficientemente nuestro contenido.                                                                
+Ésta pequeña pero útil barra nos permite buscar nuestras películas favoritas mediante el uso de palabras clave en dicha barra, para así encontrar más eficientemente nuestro contenido.                                                                
 ![BarraNavegacion](https://github.com/Raynou/Infinite/blob/master/Imagenes%20para%20README/ss5.jpg )
 ![Navegacion](https://github.com/Raynou/Infinite/blob/master/Imagenes%20para%20README/ss6.jpg )
 
